@@ -1,5 +1,5 @@
 # 💫 About Me:
-👯 I’m looking to collaborate on open source.<br>🤝 I’m looking for help with DSA.<br>🌱 I’m manifesting development.<br>⚡ Fun fact "  A crocodile can not stick its tongue out."
+🌱 I’m manifesting development.<br>⚡ Fun fact "  A crocodile can not stick its tongue out."
 
 
 # 💻 Tech Stack:
